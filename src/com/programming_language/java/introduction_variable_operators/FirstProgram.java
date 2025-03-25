@@ -1,4 +1,4 @@
-package com.dsa_to_development.introduction_variable_operators;
+package com.programming_language.java.introduction_variable_operators;
 
 public class FirstProgram {
     public static void main(String[] args) {
