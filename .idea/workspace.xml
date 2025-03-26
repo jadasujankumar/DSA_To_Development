@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="645c32d4-4255-4564-8b42-e94ae81149c9" name="Changes" comment="init commit">
-      <change afterPath="$PROJECT_DIR$/src/com/programming_language/java/introduction_variable_operators/EscapeSequence_InJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/programming_language/java/introduction_variable_operators/JavaCommandLineArgumentsImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/programming_language/java/introduction_variable_operators/ArithmeticOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/programming_language/java/introduction_variable_operators/AssignementOperator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/programming_language/java/introduction_variable_operators/JavaOutputTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/programming_language/java/introduction_variable_operators/JavaOutputTypes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +52,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArithmeticOperators.executor": "Run",
     "Application.AutoBoxing_UnBoxingInJava.executor": "Run",
     "Application.BufferedReaderImplementation.executor": "Run",
     "Application.EscapeSequence_InJava.executor": "Run",
@@ -74,7 +74,33 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.EscapeSequence_InJava">
+  <component name="RunManager" selected="Application.AssignementOperator">
+    <configuration name="ArithmeticOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programming_language.java.introduction_variable_operators.ArithmeticOperators" />
+      <module name="DSA_To_Development" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.programming_language.java.introduction_variable_operators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AssignementOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programming_language.java.introduction_variable_operators.AssignementOperator" />
+      <module name="DSA_To_Development" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.programming_language.java.introduction_variable_operators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EscapeSequence_InJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.programming_language.java.introduction_variable_operators.EscapeSequence_InJava" />
       <module name="DSA_To_Development" />
@@ -98,10 +124,14 @@
     </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.ArithmeticOperators" />
+      <item itemvalue="Application.AssignementOperator" />
       <item itemvalue="Application.EscapeSequence_InJava" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AssignementOperator" />
+        <item itemvalue="Application.ArithmeticOperators" />
         <item itemvalue="Application.EscapeSequence_InJava" />
       </list>
     </recent_temporary>
@@ -211,7 +241,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743002294216</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1743005013084</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1743005013084</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
