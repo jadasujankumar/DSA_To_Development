@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="645c32d4-4255-4564-8b42-e94ae81149c9" name="Changes" comment="init commit">
-      <change afterPath="$PROJECT_DIR$/src/com/programming_language/java/introduction_variable_operators/JavaOutputTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/programming_language/java/introduction_variable_operators/ScannerImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/programming_language/java/introduction_variable_operators/EscapeSequence_InJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/programming_language/java/introduction_variable_operators/JavaCommandLineArgumentsImplementation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/programming_language/java/introduction_variable_operators/JavaOutputTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/programming_language/java/introduction_variable_operators/JavaOutputTypes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,14 +55,17 @@
   "keyToString": {
     "Application.AutoBoxing_UnBoxingInJava.executor": "Run",
     "Application.BufferedReaderImplementation.executor": "Run",
+    "Application.EscapeSequence_InJava.executor": "Run",
     "Application.FirstProgram.executor": "Run",
     "Application.If_Else.executor": "Run",
+    "Application.JavaCommandLineArgumentsImplementation.executor": "Run",
     "Application.JavaOutputTypes.executor": "Run",
     "Application.JavaWrapperClass.executor": "Run",
     "Application.ScannerImplementation.executor": "Run",
     "Application.SumOf_N_Numbers.executor": "Run",
     "Application.SwapTwoNumbers.executor": "Run",
     "Application.TypeConversion.executor": "Run",
+    "Application.Unnamed.executor": "Run",
     "Application.WrapperClassPractice.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -70,6 +74,38 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.EscapeSequence_InJava">
+    <configuration name="EscapeSequence_InJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programming_language.java.introduction_variable_operators.EscapeSequence_InJava" />
+      <module name="DSA_To_Development" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.programming_language.java.introduction_variable_operators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programming_language.java.introduction_variable_operators.JavaCommandLineArgumentsImplementation" />
+      <module name="DSA_To_Development" />
+      <option name="PROGRAM_PARAMETERS" value="Hello World 123" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.EscapeSequence_InJava" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EscapeSequence_InJava" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -167,11 +203,30 @@
       <option name="project" value="LOCAL" />
       <updated>1742990327175</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1743002294216</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1743002294216</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
     <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/programming_language/java/introduction_variable_operators/JavaCommandLineArgumentsImplementation.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -17,6 +17,7 @@ public class JavaOutputTypes {
         System.out.printf("%s\n",name);
         System.out.printf("%d\n",age);
         System.out.printf("%c\n",grade);
+        System.out.printf("name : %s age : %d\n",name,age);
 
         System.out.println(name);
         System.out.print(name);
