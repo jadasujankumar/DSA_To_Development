@@ -6,7 +6,7 @@ public class WrapperClassPractice {
         Integer a1 = 400;
         Integer a2 = 400;
 
-        if(a1 != a2)
+        if(a1 == a2)
         {
             System.out.print("Same");
         }
