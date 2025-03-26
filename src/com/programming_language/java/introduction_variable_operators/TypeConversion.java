@@ -9,6 +9,7 @@ public class TypeConversion {
         System.out.println(a);
         System.out.println(f);
 
+        //Narrowing
         double d = 65.4;
         int i = (int)d;
         char c = (char)i;
