@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="645c32d4-4255-4564-8b42-e94ae81149c9" name="Changes" comment="init commit">
-      <change beforePath="$PROJECT_DIR$/src/com/programming_language/java/introduction_variable_operators/Problems/WrapperClassPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/programming_language/java/introduction_variable_operators/Problems/WrapperClassPractice.java" afterDir="false" />
-    </list>
+    <list default="true" id="645c32d4-4255-4564-8b42-e94ae81149c9" name="Changes" comment="init commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +33,7 @@
   }
 }</component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -56,9 +54,9 @@
     "Application.JavaWrapperClass.executor": "Run",
     "Application.SumOf_N_Numbers.executor": "Run",
     "Application.SwapTwoNumbers.executor": "Run",
+    "Application.TypeConversion.executor": "Run",
     "Application.WrapperClassPractice.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "/Users/sujankumarjada/Desktop/MyPlayGround/JavaPlayground/DSA_To_Development/src/Main.java",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
