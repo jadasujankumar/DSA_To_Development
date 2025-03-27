@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="645c32d4-4255-4564-8b42-e94ae81149c9" name="Changes" comment="init commit">
+      <change afterPath="$PROJECT_DIR$/src/com/programming_language/java/introduction_variable_operators/ImportantPrograms/ArthimeticProgression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/programming_language/java/introduction_variable_operators/ImportantPrograms/DayBefore_N_Days.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/programming_language/java/introduction_variable_operators/ImportantPrograms/GeometricProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/programming_language/java/introduction_variable_operators/ImportantPrograms/LastDigitOfNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/programming_language/java/introduction_variable_operators/ImportantPrograms/SwapTheNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/programming_language/java/introduction_variable_operators/RoughWork/SumOf_N_Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/programming_language/java/introduction_variable_operators/ImportantPrograms/SumOf_N_Numbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/programming_language/java/introduction_variable_operators/RoughWork/WrapperClassPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/programming_language/java/introduction_variable_operators/ImportantPrograms/WrapperClassPractice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,14 +57,17 @@
   "keyToString": {
     "Application.ArithmeticOperators.executor": "Run",
     "Application.ArithmeticProgression_NthTerm.executor": "Run",
+    "Application.ArthimeticProgression.executor": "Run",
     "Application.AssignementOperator.executor": "Run",
     "Application.AutoBoxing_UnBoxingInJava.executor": "Run",
     "Application.BitwiseOperator_Part1.executor": "Run",
     "Application.BitwiseOperator_part2.executor": "Run",
     "Application.BitwiseOperator_part3.executor": "Run",
     "Application.BufferedReaderImplementation.executor": "Run",
+    "Application.DayBefore_N_Days.executor": "Run",
     "Application.EscapeSequence_InJava.executor": "Run",
     "Application.FirstProgram.executor": "Run",
+    "Application.GeometricProblem.executor": "Run",
     "Application.GeometricProgression_NthTerm.executor": "Run",
     "Application.If_Else.executor": "Run",
     "Application.JavaCommandLineArgumentsImplementation.executor": "Run",
@@ -74,6 +80,7 @@
     "Application.ScannerImplementation.executor": "Run",
     "Application.SumOfNaturalNumbers.executor": "Run",
     "Application.SumOf_N_Numbers.executor": "Run",
+    "Application.SwapTheNumbers.executor": "Run",
     "Application.SwapTwoNumbers.executor": "Run",
     "Application.TypeConversion.executor": "Run",
     "Application.Unnamed.executor": "Run",
@@ -91,7 +98,7 @@
       <module name="DSA_To_Development" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.programming_language.java.introduction_variable_operators.*" />
+          <option name="PATTERN" value="com.programming_language.java.introduction_variable_operators.ImportantPrograms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,7 +111,7 @@
       <module name="DSA_To_Development" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.programming_language.java.introduction_variable_operators.*" />
+          <option name="PATTERN" value="com.programming_language.java.introduction_variable_operators.ImportantPrograms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,7 +124,7 @@
       <module name="DSA_To_Development" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.programming_language.java.introduction_variable_operators.*" />
+          <option name="PATTERN" value="com.programming_language.java.introduction_variable_operators.ImportantPrograms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -340,7 +347,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743095548133</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1743099494848</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1743099494848</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
