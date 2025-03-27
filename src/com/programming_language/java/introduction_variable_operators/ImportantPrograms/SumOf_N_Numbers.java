@@ -1,4 +1,4 @@
-package com.programming_language.java.introduction_variable_operators.RoughWork;
+package com.programming_language.java.introduction_variable_operators.ImportantPrograms;
 
 public class SumOf_N_Numbers {
 
