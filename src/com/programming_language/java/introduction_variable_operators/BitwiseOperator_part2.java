@@ -10,6 +10,7 @@ public class BitwiseOperator_part2 {
         System.out.println(x<<2); //left shift operator
         System.out.println(x<<3); //left shift operator
 
+        System.out.print(x<<30);
 
 
 
