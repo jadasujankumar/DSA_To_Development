@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="645c32d4-4255-4564-8b42-e94ae81149c9" name="Changes" comment="init commit">
-      <change afterPath="$PROJECT_DIR$/src/com/programming_language/java/flow_control_loops_functions/ImportantPrograms/FactorialOfNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/programming_language/java/flow_control_loops_functions/ImportantPrograms/GCD_OF_A_Number.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/programming_language/java/flow_control_loops_functions/Patterns/PyramidPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/programming_language/java/flow_control_loops_functions/ImportantPrograms/Patterns/PyramidPattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/programming_language/java/flow_control_loops_functions/Patterns/SquarePattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/programming_language/java/flow_control_loops_functions/ImportantPrograms/Patterns/SquarePattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/programming_language/java/flow_control_loops_functions/Patterns/SquarePattern_WithNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/programming_language/java/flow_control_loops_functions/ImportantPrograms/Patterns/SquarePattern_WithNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +67,7 @@
     "Application.Even_Or_Odd.executor": "Run",
     "Application.FactorialOfNumber.executor": "Run",
     "Application.FirstProgram.executor": "Run",
+    "Application.GCD_OF_A_Number.executor": "Run",
     "Application.GeometricProblem.executor": "Run",
     "Application.GeometricProgression_NthTerm.executor": "Run",
     "Application.If_Else.executor": "Run",
@@ -408,7 +406,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743340512491</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1743345235304</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1743345235304</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
