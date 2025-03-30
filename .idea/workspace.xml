@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="645c32d4-4255-4564-8b42-e94ae81149c9" name="Changes" comment="init commit">
-      <change afterPath="$PROJECT_DIR$/src/com/programming_language/java/flow_control_loops_functions/Break_Continue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/programming_language/java/flow_control_loops_functions/ImportantPrograms/CountDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/programming_language/java/flow_control_loops_functions/ImportantPrograms/TableOfNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/programming_language/java/flow_control_loops_functions/Patterns/PyramidPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/programming_language/java/flow_control_loops_functions/Patterns/SquarePattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/programming_language/java/flow_control_loops_functions/Patterns/SquarePattern_WithNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/programming_language/java/flow_control_loops_functions/Even_Or_Odd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/programming_language/java/flow_control_loops_functions/ImportantPrograms/Even_Or_Odd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/programming_language/java/flow_control_loops_functions/LargestOfThreeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/programming_language/java/flow_control_loops_functions/ImportantPrograms/LargestOfThreeNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/programming_language/java/flow_control_loops_functions/LeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/programming_language/java/flow_control_loops_functions/ImportantPrograms/LeapYear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/programming_language/java/flow_control_loops_functions/PrintSumOfNaturalNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/programming_language/java/flow_control_loops_functions/ImportantPrograms/PrintSumOfNaturalNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,14 +82,18 @@
     "Application.Nested_If_Else.executor": "Run",
     "Application.PreciseFormatJava.executor": "Run",
     "Application.PrintSumOfNaturalNumbers.executor": "Run",
+    "Application.PyramidPattern.executor": "Run",
     "Application.RelationalOperators.executor": "Run",
     "Application.ReverseOfNumber.executor": "Run",
     "Application.ScannerImplementation.executor": "Run",
     "Application.SimpleCalculator.executor": "Run",
+    "Application.SquarePattern.executor": "Run",
+    "Application.SquarePattern_WithNumbers.executor": "Run",
     "Application.SumOfNaturalNumbers.executor": "Run",
     "Application.SumOf_N_Numbers.executor": "Run",
     "Application.SwapTheNumbers.executor": "Run",
     "Application.SwapTwoNumbers.executor": "Run",
+    "Application.TableOfNumber.executor": "Run",
     "Application.TypeConversion.executor": "Run",
     "Application.Unnamed.executor": "Run",
     "Application.WrapperClassPractice.executor": "Run",
@@ -389,7 +391,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743320671316</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1743337491944</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1743337491944</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
