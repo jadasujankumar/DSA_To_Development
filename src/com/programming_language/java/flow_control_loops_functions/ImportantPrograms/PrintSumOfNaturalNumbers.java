@@ -1,4 +1,4 @@
-package com.programming_language.java.flow_control_loops_functions;
+package com.programming_language.java.flow_control_loops_functions.ImportantPrograms;
 import java.util.*;
 
 public class PrintSumOfNaturalNumbers {
