@@ -1,4 +1,4 @@
-package com.programming_language.java.flow_control_loops_functions.Patterns;
+package com.programming_language.java.flow_control_loops_functions.ImportantPrograms.Patterns;
 
 import java.util.Scanner;
 
