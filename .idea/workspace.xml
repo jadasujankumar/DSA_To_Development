@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="645c32d4-4255-4564-8b42-e94ae81149c9" name="Changes" comment="init commit">
-      <change afterPath="$PROJECT_DIR$/src/com/programming_language/java/flow_control_loops_functions/ImportantPrograms/GCD_OF_A_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/programming_language/java/flow_control_loops_functions/GCD_OF_Number.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,6 +68,7 @@
     "Application.FactorialOfNumber.executor": "Run",
     "Application.FirstProgram.executor": "Run",
     "Application.GCD_OF_A_Number.executor": "Run",
+    "Application.GCD_OF_Number.executor": "Run",
     "Application.GeometricProblem.executor": "Run",
     "Application.GeometricProgression_NthTerm.executor": "Run",
     "Application.If_Else.executor": "Run",
@@ -414,7 +415,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743345235304</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1743346756509</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1743346756509</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
