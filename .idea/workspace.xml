@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="645c32d4-4255-4564-8b42-e94ae81149c9" name="Changes" comment="init commit">
-      <change afterPath="$PROJECT_DIR$/src/com/programming_language/java/flow_control_loops_functions/PrimeFactorization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/programming_language/java/flow_control_loops_functions/SwitchPractice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,6 +104,7 @@
     "Application.SumOf_N_Numbers.executor": "Run",
     "Application.SwapTheNumbers.executor": "Run",
     "Application.SwapTwoNumbers.executor": "Run",
+    "Application.SwitchPractice.executor": "Run",
     "Application.TableOfNumber.executor": "Run",
     "Application.TypeConversion.executor": "Run",
     "Application.Unnamed.executor": "Run",
@@ -514,7 +515,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743425853610</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1743432321734</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1743432321734</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
