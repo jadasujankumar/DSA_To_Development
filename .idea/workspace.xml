@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="645c32d4-4255-4564-8b42-e94ae81149c9" name="Changes" comment="init commit">
-      <change afterPath="$PROJECT_DIR$/src/com/programming_language/java/flow_control_loops_functions/AllDivisorsOfNumber_EfficientSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/programming_language/java/flow_control_loops_functions/PrimeNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,6 +86,7 @@
     "Application.Naive_Solution_All_Divisiors_Of_Number.executor": "Run",
     "Application.Nested_If_Else.executor": "Run",
     "Application.PreciseFormatJava.executor": "Run",
+    "Application.PrimeNumber.executor": "Run",
     "Application.PrintSumOfNaturalNumbers.executor": "Run",
     "Application.PyramidPattern.executor": "Run",
     "Application.RelationalOperators.executor": "Run",
@@ -452,7 +453,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743412991079</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1743414325956</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1743414325956</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
