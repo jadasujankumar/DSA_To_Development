@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="645c32d4-4255-4564-8b42-e94ae81149c9" name="Changes" comment="init commit">
-      <change beforePath="$PROJECT_DIR$/src/com/programming_language/java/flow_control_loops_functions/FirstDigitOfNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/programming_language/java/flow_control_loops_functions/FirstDigitOfNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/programming_language/java/flow_control_loops_functions/PrimeFactorization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +89,7 @@
     "Application.Naive_Solution_All_Divisiors_Of_Number.executor": "Run",
     "Application.Nested_If_Else.executor": "Run",
     "Application.PreciseFormatJava.executor": "Run",
+    "Application.PrimeFactorization.executor": "Run",
     "Application.PrimeNumber.executor": "Run",
     "Application.PrimeNumber_MostOptimizedSolution.executor": "Run",
     "Application.PrintSumOfNaturalNumbers.executor": "Run",
@@ -504,7 +506,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743423307105</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1743425853610</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1743425853610</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
