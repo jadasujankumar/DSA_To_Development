@@ -12,7 +12,7 @@ public class Fibonacci_Numbers {
         int n = input.nextInt();
 
         int a =1,b=1;
-        int c=0;
+        int c;
         System.out.print(a+" "+b+" ");
         for(int i =2;i<=n;i++)
         {
