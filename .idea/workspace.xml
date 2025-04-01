@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="645c32d4-4255-4564-8b42-e94ae81149c9" name="Changes" comment="init commit">
-      <change afterPath="$PROJECT_DIR$/src/com/programming_language/java/flow_control_loops_functions/SwitchPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/programming_language/java/Arrays_and_Strings/Sum_mean_StandardDeviation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,6 +88,7 @@
     "Application.LogicalOperator.executor": "Run",
     "Application.Naive_Solution_All_Divisiors_Of_Number.executor": "Run",
     "Application.Nested_If_Else.executor": "Run",
+    "Application.Practice.executor": "Run",
     "Application.PreciseFormatJava.executor": "Run",
     "Application.PrimeFactorization.executor": "Run",
     "Application.PrimeNumber.executor": "Run",
@@ -102,6 +103,7 @@
     "Application.SquarePattern_WithNumbers.executor": "Run",
     "Application.SumOfNaturalNumbers.executor": "Run",
     "Application.SumOf_N_Numbers.executor": "Run",
+    "Application.Sum_mean_StandardDeviation.executor": "Run",
     "Application.SwapTheNumbers.executor": "Run",
     "Application.SwapTwoNumbers.executor": "Run",
     "Application.SwitchPractice.executor": "Run",
@@ -523,7 +525,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743432321734</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1743435447695</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1743435447695</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
